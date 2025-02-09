@@ -1,16 +1,15 @@
-## Hi there 👋
+## hi :]
 
-<!--
-**auroraaawhatttt/auroraaawhatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### my name is aurora, or [twocanon](https://youtube.com/@twocanons)
+- 13 years old
 
-Here are some ideas to get you started:
+- february 27, 2011
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- trans female <33
+
+- bisexual
+
+- guyanese american
+
+## stats!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auroraaawhattt&show_icons=true&theme=dark)
